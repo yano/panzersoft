@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>panzersoft's blog - Python</title><link href="https://yano.github.io/panzersoft/" rel="alternate"></link><link href="https://yano.github.io/panzersoft/feeds/python.atom.xml" rel="self"></link><id>https://yano.github.io/panzersoft/</id><updated>2017-09-20T00:00:00+09:00</updated><entry><title>ブログ移転しました</title><link href="https://yano.github.io/panzersoft/buroguyi-zhuan-shimashita.html" rel="alternate"></link><published>2017-09-20T00:00:00+09:00</published><updated>2017-09-20T00:00:00+09:00</updated><author><name>Takahiro Yano</name></author><id>tag:yano.github.io,2017-09-20:/panzersoft/buroguyi-zhuan-shimashita.html</id><summary type="html">&lt;!--Date: 2010-12-03 10:20--&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>panzersoft's blog - お知らせ</title><link href="https://yano.github.io/panzersoft/" rel="alternate"></link><link href="https://yano.github.io/panzersoft/feeds/ozhi-rase.atom.xml" rel="self"></link><id>https://yano.github.io/panzersoft/</id><updated>2017-09-20T00:00:00+09:00</updated><entry><title>ブログ移転しました</title><link href="https://yano.github.io/panzersoft/buroguyi-zhuan-shimashita.html" rel="alternate"></link><published>2017-09-20T00:00:00+09:00</published><updated>2017-09-20T00:00:00+09:00</updated><author><name>Takahiro Yano</name></author><id>tag:yano.github.io,2017-09-20:/panzersoft/buroguyi-zhuan-shimashita.html</id><summary type="html">&lt;!--Date: 2010-12-03 10:20--&gt;
 
 &lt;!--Modified: 2010-12-05 19:30s--&gt;
 
@@ -57,4 +57,4 @@
 
 &lt;!--    print("The path-less shebang syntax *will* show line numbers.")--&gt;
 
-&lt;p&gt;&lt;img alt="Alt Text" src="/panzersoft/img/zbrush20130830.png"&gt;&lt;/p&gt;</content><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;p&gt;&lt;img alt="Alt Text" src="/panzersoft/img/zbrush20130830.png"&gt;&lt;/p&gt;</content></entry></feed>
