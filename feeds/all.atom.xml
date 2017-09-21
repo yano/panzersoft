@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>panzersoft's blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2017-09-20T00:00:00+09:00</updated><entry><title>ブログ移転しました</title><link href="/buroguyi-zhuan-shimashita.html" rel="alternate"></link><published>2017-09-20T00:00:00+09:00</published><updated>2017-09-20T00:00:00+09:00</updated><author><name>Takahiro Yano</name></author><id>tag:None,2017-09-20:/buroguyi-zhuan-shimashita.html</id><summary type="html">&lt;!--Date: 2010-12-03 10:20--&gt;
+
+&lt;!--Modified: 2010-12-05 19:30s--&gt;
+
+&lt;!--Slug: my-super-post--&gt;
+
+&lt;!--Authors: Alexis Metaireau, Conan Doyle--&gt;
+
+&lt;!--Summary: Short version for index and feeds--&gt;
+
+&lt;p&gt;fc2からblog移転しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://panzersoft.blog.fc2.com/"&gt;panzersoftのブログ（旧ブログ）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今後はこちらに記事を書きたいと思います。&lt;/p&gt;
+&lt;!--## 見出し--&gt;
+
+&lt;!--- SyntaxHighlitだってバッチリ！--&gt;
+
+&lt;!--There are two ways to specify the identifier:--&gt;
+
+&lt;!--    :::python--&gt;
+
+&lt;!--    print("The triple-colon syntax will *not* show line numbers.")--&gt;
+
+&lt;!--To display line numbers, use a path-less shebang instead of colons:--&gt;
+
+&lt;!--    #!python--&gt;
+
+&lt;!--    print("The path-less shebang syntax *will* show line numbers.")--&gt;
+
+&lt;p&gt;&lt;img alt="Alt Text" src="/img/zbrush20130830.png|width=200"&gt;&lt;/p&gt;</summary><content type="html">&lt;!--Date: 2010-12-03 10:20--&gt;
+
+&lt;!--Modified: 2010-12-05 19:30s--&gt;
+
+&lt;!--Slug: my-super-post--&gt;
+
+&lt;!--Authors: Alexis Metaireau, Conan Doyle--&gt;
+
+&lt;!--Summary: Short version for index and feeds--&gt;
+
+&lt;p&gt;fc2からblog移転しました。&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://panzersoft.blog.fc2.com/"&gt;panzersoftのブログ（旧ブログ）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今後はこちらに記事を書きたいと思います。&lt;/p&gt;
+&lt;!--## 見出し--&gt;
+
+&lt;!--- SyntaxHighlitだってバッチリ！--&gt;
+
+&lt;!--There are two ways to specify the identifier:--&gt;
+
+&lt;!--    :::python--&gt;
+
+&lt;!--    print("The triple-colon syntax will *not* show line numbers.")--&gt;
+
+&lt;!--To display line numbers, use a path-less shebang instead of colons:--&gt;
+
+&lt;!--    #!python--&gt;
+
+&lt;!--    print("The path-less shebang syntax *will* show line numbers.")--&gt;
+
+&lt;p&gt;&lt;img alt="Alt Text" src="/img/zbrush20130830.png|width=200"&gt;&lt;/p&gt;</content><category term="pelican"></category><category term="publishing"></category></entry></feed>
